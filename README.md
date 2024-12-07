@@ -1,12 +1,12 @@
 # Simulador de Piano | Javascript e CSS
 
 
+Simulador de Piano desenvolvido com Javascript e CSS durante o desafio de projeto da Dio.
+
+[Clique aqui](https://pedroallysson.github.io/js-music-keyboard-virtual/) para acessar o resultado final desse projeto!
 
 
-
-
-
-
+![piano-simulator](https://github.com/user-attachments/assets/d8528668-5729-4d55-8cf5-b391efe15123)
 
 
 ## Tecnologias utilizadas
